@@ -1,0 +1,49 @@
+:root {
+    background-color: #f487b2;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+button {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #d6798c;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+button:hover {
+    background-color: #ffd1f4;
+}
+
+#botonSiTrue {
+    margin-top: 550vh;
+    width: 250px;
+}
+
+#texto {
+    font-size: 50px;
+    margin-top: 0;
+    color: #fff;
+}
+
+#imagen {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 40vh;
+}
+
+a {
+    font-size: 30px;
+    color: #ffffff;
+}
