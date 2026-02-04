@@ -20,7 +20,7 @@ botonNo.addEventListener("click", () => {
     contenido.style.display = "none";
     document.body.style.backgroundColor = "#000000";
     texto.innerText = "oye po ke isiste ezo :c";
-    imagen.src = "img/pibbleEmo.gif";
+    imagen.src = "pibbleEmo.gif";
     a.innerText = "volver...";
 })
 
@@ -29,5 +29,6 @@ botonSiTrue.addEventListener("click", () => {
     document.body.style.backgroundColor = "#ffb6c1";
     texto.innerText = "Yupiiiii <3";
     texto.style.color = "#000";
-    imagen.src = "img/pibbleHeart.gif";
+    imagen.src = "pibbleHeart.gif";
+
 })
